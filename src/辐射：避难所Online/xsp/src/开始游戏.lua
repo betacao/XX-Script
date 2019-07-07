@@ -1,6 +1,4 @@
 -------------------开始游戏前的准备操作-------------------
-require("通用")
-
 function 点击确认按钮()
 	--flag
 	--0: 一直没找到
@@ -14,16 +12,16 @@ function 点击确认按钮()
 		if x > -1 then
 			sysLog("找到确认按钮，点击确认按钮");
 			flag = 1;
-			点击(1, 793, 726, 3 * 1000);
+			点击(1, 793, 726, 1 * 1000);
 		else
 			if flag == 1 then
 				sysLog("保证点击了确认按钮，开始下步操作");
 				keepScreen(false);
-				mSleep(3 * 1000);
+				mSleep(1 * 1000);
 				break;
 			else
 				sysLog("没有找到确认按钮，继续等待");
-				mSleep(3 * 1000);
+				mSleep(1 * 1000);
 			end
 		end
 		keepScreen(false);
@@ -45,11 +43,11 @@ function 查找推荐服务器()
 		if #point ~= 0 then
 			sysLog("找到了推荐的服务器，点击进入");
 			keepScreen(false);
-			点击(1, point[1].x - 100, point[1].y + 20, 3 * 1000);
+			点击(1, point[1].x - 100, point[1].y + 20, 1 * 1000);
 			break;
 		else
 			sysLog("没有推荐的服务器，下滑继续找");
-			移动(1, 810, 550, 200, 20, 1);
+			swip(810, 550, 810, 350, 10);
 			mSleep(1 * 1000);
 		end
 		keepScreen(false);
@@ -58,7 +56,7 @@ end
 
 function 点击进入游戏()
 	sysLog("点击进入游戏");
-	点击(1, 1278, 524, 3 * 1000);
+	点击(1, 1278, 524, 1 * 1000);
 end
 
 function 点击创建角色()
@@ -68,11 +66,11 @@ function 点击创建角色()
 		95, 0, 0, 1)
 	if #point ~= 0 then
 		sysLog("点击创建角色");
-		点击(1, 1278, 524, 3 * 1000);
+		点击(1, 1278, 524, 1 * 1000);
 	else
 		sysLog("不需要创建角色");
-		mSleep(3 * 1000);
+		mSleep(1 * 1000);
 	end
-		sysLog("进入游戏啦，恭喜哦！！！！！！！！！！！！");
+	sysLog("进入游戏啦，恭喜哦！！！！！！！！！！！！");
 	keepScreen(false);
 end
