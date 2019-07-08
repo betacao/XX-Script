@@ -234,6 +234,7 @@ align	C:/Users/94103/Documents/GitHub/XX-Script/src/·øÉä£º±ÜÄÑËùOnline/xsp/src\b
 all(src,	C:/Users/94103/Documents/GitHub/XX-Script/src/·øÉä£º±ÜÄÑËùOnline/xsp/src\bblibs\socket\ltn12.lua	293;"	f
 alphabet	C:/Users/94103/Documents/GitHub/XX-Script/src/·øÉä£º±ÜÄÑËùOnline/xsp/src\bblibs\StrUtilsAPI.lua	954;"	e
 angleBetween(t)	C:/Users/94103/Documents/GitHub/XX-Script/src/·øÉä£º±ÜÄÑËùOnline/xsp/src\bblibs\pos.lua	85;"	f
+appid	C:/Users/94103/Documents/GitHub/XX-Script/src/·øÉä£º±ÜÄÑËùOnline/xsp/src\main.lua	14;"	e
 arg	C:/Users/94103/Documents/GitHub/XX-Script/src/·øÉä£º±ÜÄÑËùOnline/xsp/src\bblibs\socket\ftp.lua	94;"	e
 arg	C:/Users/94103/Documents/GitHub/XX-Script/src/·øÉä£º±ÜÄÑËùOnline/xsp/src\bblibs\socket\ltn12.lua	195;"	e
 arg	C:/Users/94103/Documents/GitHub/XX-Script/src/·øÉä£º±ÜÄÑËùOnline/xsp/src\bblibs\socket\ltn12.lua	44;"	e
@@ -625,8 +626,9 @@ isKeepScreen	C:/Users/94103/Documents/GitHub/XX-Script/src/·øÉä£º±ÜÄÑËùOnline/xs
 isObject	C:/Users/94103/Documents/GitHub/XX-Script/src/·øÉä£º±ÜÄÑËùOnline/xsp/src\bblibs\JSON.lua	293;"	e
 isRepetition	C:/Users/94103/Documents/GitHub/XX-Script/src/·øÉä£º±ÜÄÑËùOnline/xsp/src\bblibs\StrUtilsAPI.lua	516;"	f
 isRepetitionWS	C:/Users/94103/Documents/GitHub/XX-Script/src/·øÉä£º±ÜÄÑËùOnline/xsp/src\bblibs\StrUtilsAPI.lua	522;"	f
-isRunning	C:/Users/94103/Documents/GitHub/XX-Script/src/·øÉä£º±ÜÄÑËùOnline/xsp/src\main.lua	14;"	e
+isRunning	C:/Users/94103/Documents/GitHub/XX-Script/src/·øÉä£º±ÜÄÑËùOnline/xsp/src\main.lua	17;"	e
 is_page_style	C:/Users/94103/Documents/GitHub/XX-Script/src/·øÉä£º±ÜÄÑËùOnline/xsp/src\bblibs\UI.lua	226;"	e
+isfront	C:/Users/94103/Documents/GitHub/XX-Script/src/·øÉä£º±ÜÄÑËùOnline/xsp/src\main.lua	26;"	e
 iv	C:/Users/94103/Documents/GitHub/XX-Script/src/·øÉä£º±ÜÄÑËùOnline/xsp/src\bblibs\StrUtilsAPI.lua	956;"	e
 iv	C:/Users/94103/Documents/GitHub/XX-Script/src/·øÉä£º±ÜÄÑËùOnline/xsp/src\bblibs\StrUtilsAPI.lua	957;"	e
 j	C:/Users/94103/Documents/GitHub/XX-Script/src/·øÉä£º±ÜÄÑËùOnline/xsp/src\bblibs\StrUtilsAPI.lua	962;"	e
@@ -1356,6 +1358,7 @@ z	C:/Users/94103/Documents/GitHub/XX-Script/src/·øÉä£º±ÜÄÑËùOnline/xsp/src\bblib
 æˆ˜æ–—ä¸­	C:/Users/94103/Documents/GitHub/XX-Script/src/·øÉä£º±ÜÄÑËùOnline/xsp/src\Õ½¶·ÖĞ.lua	1;"	f
 æŒ‰ä½å’Œæ¾å¼€çš„æ‹–åŠ¨	C:/Users/94103/Documents/GitHub/XX-Script/src/·øÉä£º±ÜÄÑËùOnline/xsp/src\ĞİÏ¢ÖĞ.lua	127;"	f
 æŸ¥æ‰¾æ¨èæœåŠ¡å™¨	C:/Users/94103/Documents/GitHub/XX-Script/src/·øÉä£º±ÜÄÑËùOnline/xsp/src\¿ªÊ¼ÓÎÏ·.lua	36;"	f
+æ£€æŸ¥çŠ¶æ€	C:/Users/94103/Documents/GitHub/XX-Script/src/·øÉä£º±ÜÄÑËùOnline/xsp/src\main.lua	16;"	f
 ç‚¹å‡»	C:/Users/94103/Documents/GitHub/XX-Script/src/·øÉä£º±ÜÄÑËùOnline/xsp/src\Í¨ÓÃ.lua	2;"	f
 ç‚¹å‡»åˆ›å»ºè§’è‰²	C:/Users/94103/Documents/GitHub/XX-Script/src/·øÉä£º±ÜÄÑËùOnline/xsp/src\¿ªÊ¼ÓÎÏ·.lua	62;"	f
 ç‚¹å‡»ç¡®è®¤æŒ‰é’®	C:/Users/94103/Documents/GitHub/XX-Script/src/·øÉä£º±ÜÄÑËùOnline/xsp/src\¿ªÊ¼ÓÎÏ·.lua	2;"	f
