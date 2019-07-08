@@ -6,6 +6,7 @@ require("开始游戏");
 require("玩游戏");
 require("休息中");
 require("战斗中");
+require("离开关卡")
 require("通用")
 
 init("0", 1); --以当前应用 Home 键在右边初始化
